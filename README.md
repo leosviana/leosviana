@@ -17,6 +17,7 @@
 - [Portugol](https://pt.wikipedia.org/wiki/Portugol)<br>
 - [HTML5](https://pt.wikipedia.org/wiki/HTML5)<br>
 - [CSS3](https://pt.wikipedia.org/wiki/CSS3)<br>
+- [JAVASCRIPT ES6](https://pt.wikipedia.org/wiki/JavaScript)<br>
 
 # :mortar_board: Formação
 - [Graduado Em Ciência da Computação (2016)](https://www.anhanguera.com/) - Anhanguera Educacional<br>
